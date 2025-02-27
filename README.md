@@ -1,1 +1,1 @@
-# Active-Machine-Learning-Assignment-1
+# Social-Computational-Science-Assignment-1
